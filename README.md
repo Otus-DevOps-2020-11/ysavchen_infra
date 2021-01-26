@@ -28,3 +28,13 @@ Host someinternalhost
 ssh bastion
 ssh someinternalhost
 ```
+
+### Домашнее задание №4
+```
+testapp_IP = 178.154.224.207
+testapp_port = 9292
+```
+1. Установлен YC CLI
+2. Создан новый инстанс через yc
+3. Установлен ruby, mongodb, reddit app через yc
+4. Созданы bash-скрипты для настройки системы и деплоя приложения
